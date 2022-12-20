@@ -1,4 +1,3 @@
- # My first remote repository
- # Мой первый удаленый репозиторий #
+ # My first remote repository (Мой первый удаленый репозиторий) #
 
  1. Эта стока добавлена локально
